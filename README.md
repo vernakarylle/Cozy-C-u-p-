@@ -15,24 +15,23 @@ Welcome to Cozy Cup Cafe, a charming retreat in the heart of Puerto Princesa Cit
 
 
 ### Screen Captures
-
 #### Inside View
-![Inside View](inside.jpg)
+<img src="inside.jpg" alt="Inside View" width="400"/>
 
 *Step into the warm and inviting ambiance of our coffee shop. The cozy interior, with its comfortable seating and charming decor, sets the perfect backdrop for your moments of relaxation and connection.*
 
 #### Delectable Delights
-![Foods](foods.jpg)
+<img src="foods.jpg" alt="Foods" width="400"/>
 
 *Dive into a world of culinary ecstasy with our exquisite array of dishes. From gourmet delights to comfort classics, each plate is a celebration of flavors and textures, promising a gastronomic journey that will leave you craving for more.*
 
 #### Bold Black Coffee
-![Black Coffee](blackcoffee.jpg)
+<img src="blackcoffee.jpg" alt="Black Coffee" width="400"/>
 
 *Indulge in the pure essence of coffee with our signature black brew. Served with passion and expertise, our black coffee is a rich and robust experience, capturing the true spirit of the coffee culture.*
 
 #### Exceptional Services
-![Service](service.jpg)
+<img src="service.jpg" alt="Service" width="400"/>
 
 *Experience hospitality at its finest with our dedicated and friendly staff. Our commitment to personalized service ensures that every visit to our coffee shop is met with warmth, attentiveness, and a touch of genuine care.*
 
