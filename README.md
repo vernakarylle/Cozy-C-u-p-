@@ -40,12 +40,12 @@ Welcome to Cozy Cup Cafe, a charming retreat in the heart of Puerto Princesa Cit
 
 ### About the Authors
 
-<img src="Verna.jpg" alt="Verna Karylle C." width="150" style="border-radius: 50%">
+<img src="verna.jpg" alt="Verna Karylle C." width="150" style="border-radius: 50%">
 
 **Name:** Verna Karylle C. Elanan
 
 **Email:** vernaelanan@gmail.com
 
 [<img src="Facebook.png" alt="Facebook" width="30">](https://web.facebook.com/vernakharylle.elanan) 
-[<img src="GitHub.png" alt="GitHub" width="30">](https://github.com/vernakarylle)
+[<img src="Github.png" alt="GitHub" width="30">](https://github.com/vernakarylle)
 
