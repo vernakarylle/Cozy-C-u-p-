@@ -49,3 +49,14 @@ Welcome to Cozy Cup Cafe, a charming retreat in the heart of Puerto Princesa Cit
 [<img src="Facebook.png" alt="Facebook" width="30">](https://web.facebook.com/vernakharylle.elanan) 
 [<img src="Github.png" alt="GitHub" width="30">](https://github.com/vernakarylle)
 
+**Name:** Kieth Lawrence A. Fresnillo
+
+**Email:** klfresnillo@gmail.com
+
+<a href="https://www.facebook.com/Kieth.Fres">
+<img src="Facebook.png" alt="profile pic" width="30" style=border-radius:50%></a>
+<a href="https://github.com/kit909">
+<img src="Github.png" alt="profile pic" width="30" style=border-radius:50%></a>
+
+
+
