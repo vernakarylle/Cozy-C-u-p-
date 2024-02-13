@@ -53,8 +53,7 @@ Welcome to Cozy Cup Cafe, a charming retreat in the heart of Puerto Princesa Cit
 
 **Email:** klfresnillo@gmail.com
 
-<a href="https://www.facebook.com/Kieth.Fres">
-<img src="Facebook.png" alt="profile pic" width="30" style=border-radius:50%></a>
+[<img src="Facebook.png" alt="Facebook" width="30">](https://www.facebook.com/Kieth.Fres) 
 <a href="https://github.com/kit909">
 <img src="Github.png" alt="profile pic" width="30" style=border-radius:50%></a>
 
